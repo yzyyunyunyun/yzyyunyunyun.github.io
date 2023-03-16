@@ -14,7 +14,7 @@ description: "记录每一天的学习变成更优秀的人"
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
+favicon: https://github.com/yzyyunyunyun/yzyyunyunyun.github.io/blob/master/images/%E6%99%9A%E6%99%9A.jpg
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: llong87@163.com
+  zhihu: 
+  email: 
   facebook:
   flickr:
-  github: lemonchann 
+  github: yzyyunyunyun 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -63,17 +63,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  clientID: cbd957f3d6a5de8640cb
+  clientSecret: f5a7b576d7e15570b5248854e779a8a5dea3083a
+  repo: yzyyunyunyun.github.io
+  owner: yzyyunyunyun
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://lemonchann.github.io
+url: https://yzyyunyunyun.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
