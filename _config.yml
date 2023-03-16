@@ -12,9 +12,9 @@ description: "记录每一天的学习变成更优秀的人"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/yzyyunyunyun/yzyyunyunyun.github.io/blob/master/images/F3AB46F0116C19691C6BB0656D531FA5.jpg
+avatar: https://github.com/yzyyunyunyun/yzyyunyunyun.github.io/blob/master/images/F3AB46F0116C19691C6BB0656D531FA5.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/yzyyunyunyun/yzyyunyunyun.github.io/blob/master/images/%E6%99%9A%E6%99%9A.jpg
+favicon: https://github.com/yzyyunyunyun/yzyyunyunyun.github.io/blob/master/images/%E6%99%9A%E6%99%9A.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
